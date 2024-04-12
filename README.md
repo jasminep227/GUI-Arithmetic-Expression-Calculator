@@ -1,1 +1,5 @@
 # GUI-Arithmetic-Expression-Calculator
+
+Description: This project creates a graphic user interface to calculate any arithmetic sequence the user wishes to calculate. The program uses stack and array data structures to sort the expression operators and operands to perform calculations in the correct order to produce the expression resultant  This game was created on IntelliJ Idea integrated development environment using Java language for a Java class (Introduction to Data Structures). 
+
+Running this program: If you would like to use this program, download any Java IDE preferably IntelliJ. Be sure to load all JavaFX jars into your IntelliJ library so it may be used by this program. Then create a Java project and name it Arithmetic Expression Calculator. Create a EvaluateExpression Java class file in the source code folder named 'SRC' that automatically generates. Then copy the code code from the EvaluateExpression file from this GitHub project. Simply run your code and enter an expression!
